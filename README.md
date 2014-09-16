@@ -3,6 +3,4 @@ test
 
 First test
 
-hi
-
-dev-mod
+Only for dev-mode
