@@ -3,4 +3,5 @@ test :)
 
 First test
 
-MASTER
+MASTER & Only for dev-mode
+MANUAL
